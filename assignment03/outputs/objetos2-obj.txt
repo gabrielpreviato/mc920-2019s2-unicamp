@@ -1,0 +1,64 @@
+numero de regioes: 58
+
+região 0: área: 256.0000 perímetro: 64.0000 excentricidade: 1.4142 solidez: 1.0000
+região 1: área: 1264.0000 perímetro: 190.0000 excentricidade: 1.4142 solidez: 1.0000
+região 2: área: 240.0000 perímetro: 74.4264 excentricidade: 1.4142 solidez: 1.0000
+região 3: área: 2016.0000 perímetro: 190.0000 excentricidade: 1.4142 solidez: 1.0000
+região 4: área: 240.0000 perímetro: 74.4264 excentricidade: 1.4142 solidez: 1.0000
+região 5: área: 256.0000 perímetro: 77.2548 excentricidade: 1.4142 solidez: 1.0000
+região 6: área: 752.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 7: área: 2304.0000 perímetro: 192.0000 excentricidade: 1.4142 solidez: 1.0000
+região 8: área: 386.0000 perímetro: 73.9411 excentricidade: 1.0155 solidez: 0.9735
+região 9: área: 1512.0000 perímetro: 146.7107 excentricidade: 1.0057 solidez: 0.9793
+região 10: área: 961.0000 perímetro: 124.0000 excentricidade: 1.4142 solidez: 1.0000
+região 11: área: 991.5000 perímetro: 120.2670 excentricidade: 1.4194 solidez: 1.0000
+região 12: área: 751.5000 perímetro: 137.8406 excentricidade: 2.7900 solidez: 0.9622
+região 13: área: 95.0000 perímetro: 36.9706 excentricidade: 1.0382 solidez: 0.9694
+região 14: área: 256.0000 perímetro: 77.2548 excentricidade: 1.4142 solidez: 1.0000
+região 15: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 16: área: 1008.0000 perímetro: 158.0000 excentricidade: 1.4142 solidez: 1.0000
+região 17: área: 990.5000 perímetro: 119.4386 excentricidade: 1.3872 solidez: 1.0000
+região 18: área: 752.0000 perímetro: 138.4264 excentricidade: 2.7719 solidez: 0.9616
+região 19: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 20: área: 720.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 21: área: 992.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 22: área: 1519.0000 perímetro: 147.5391 excentricidade: 1.0055 solidez: 0.9762
+região 23: área: 992.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 24: área: 240.0000 perímetro: 74.4264 excentricidade: 1.4142 solidez: 1.0000
+região 25: área: 95.0000 perímetro: 37.7990 excentricidade: 1.0569 solidez: 0.9453
+região 26: área: 256.0000 perímetro: 64.0000 excentricidade: 1.4142 solidez: 1.0000
+região 27: área: 96.5000 perímetro: 36.3848 excentricidade: 1.0329 solidez: 0.9847
+região 28: área: 1024.0000 perímetro: 128.0000 excentricidade: 1.4142 solidez: 1.0000
+região 29: área: 1665.0000 perímetro: 252.0000 excentricidade: 1.4142 solidez: 1.0000
+região 30: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 31: área: 1233.0000 perímetro: 200.4264 excentricidade: 4.5131 solidez: 0.9536
+região 32: área: 2324.0000 perímetro: 181.3381 excentricidade: 1.0023 solidez: 0.9837
+região 33: área: 1488.5000 perímetro: 183.0955 excentricidade: 1.2474 solidez: 0.9802
+região 34: área: 271.0000 perímetro: 76.4264 excentricidade: 1.0000 solidez: 1.0000
+região 35: área: 384.0000 perímetro: 73.9411 excentricidade: 1.0064 solidez: 0.9722
+região 36: área: 94.0000 perímetro: 37.7990 excentricidade: 1.0518 solidez: 0.9400
+região 37: área: 752.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 38: área: 256.0000 perímetro: 64.0000 excentricidade: 1.4142 solidez: 1.0000
+região 39: área: 2961.0000 perímetro: 220.0000 excentricidade: 1.4142 solidez: 1.0000
+região 40: área: 96.5000 perímetro: 36.3848 excentricidade: 1.0329 solidez: 0.9847
+região 41: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 42: área: 992.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 43: área: 96.0000 perímetro: 36.9706 excentricidade: 1.0066 solidez: 0.9697
+região 44: área: 1457.0000 perímetro: 156.0000 excentricidade: 1.4142 solidez: 1.0000
+região 45: área: 496.0000 perímetro: 94.0000 excentricidade: 1.4142 solidez: 1.0000
+região 46: área: 1472.5000 perímetro: 182.2670 excentricidade: 2.4305 solidez: 0.9800
+região 47: área: 256.0000 perímetro: 64.0000 excentricidade: 1.4142 solidez: 1.0000
+região 48: área: 1008.0000 perímetro: 158.0000 excentricidade: 1.4142 solidez: 1.0000
+região 49: área: 386.0000 perímetro: 73.9411 excentricidade: 1.0154 solidez: 0.9735
+região 50: área: 256.0000 perímetro: 77.2548 excentricidade: 1.4142 solidez: 1.0000
+região 51: área: 721.0000 perímetro: 139.2548 excentricidade: 2.1942 solidez: 0.9493
+região 52: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 53: área: 4508.0000 perímetro: 251.2792 excentricidade: 1.0008 solidez: 0.9889
+região 54: área: 992.0000 perímetro: 126.0000 excentricidade: 1.4142 solidez: 1.0000
+região 55: área: 976.0000 perímetro: 118.8528 excentricidade: 1.3919 solidez: 1.0000
+região 56: área: 240.0000 perímetro: 62.0000 excentricidade: 1.4142 solidez: 1.0000
+região 57: área: 752.0000 perímetro: 138.4264 excentricidade: 2.7719 solidez: 0.9616
+
+numero de regioes pequenas: 50
+numero de regioes medias: 7
+numero de regioes grandes: 1

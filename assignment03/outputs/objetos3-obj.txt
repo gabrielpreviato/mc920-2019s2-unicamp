@@ -1,0 +1,15 @@
+numero de regioes: 9
+
+região 0: área: 633.5000 perímetro: 96.3259 excentricidade: 1.3043 solidez: 0.9776
+região 1: área: 3801.0000 perímetro: 305.4214 excentricidade: 2.1682 solidez: 0.7689
+região 2: área: 595.5000 perímetro: 103.0122 excentricidade: 2.2080 solidez: 0.9683
+região 3: área: 1606.5000 perímetro: 174.1249 excentricidade: 2.1690 solidez: 0.9692
+região 4: área: 398.0000 perímetro: 88.7696 excentricidade: 2.2132 solidez: 0.9056
+região 5: área: 496.0000 perímetro: 99.2548 excentricidade: 2.1523 solidez: 0.9002
+região 6: área: 3477.5000 perímetro: 259.4630 excentricidade: 2.4134 solidez: 0.9770
+região 7: área: 738.5000 perímetro: 119.9828 excentricidade: 1.5330 solidez: 0.8903
+região 8: área: 3831.0000 perímetro: 313.7645 excentricidade: 1.4538 solidez: 0.7397
+
+numero de regioes pequenas: 5
+numero de regioes medias: 1
+numero de regioes grandes: 3
